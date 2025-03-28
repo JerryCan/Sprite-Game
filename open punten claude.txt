@@ -1,0 +1,121 @@
+# Onbeantwoorde Discussiepunten voor het RPG Game Project
+
+## 1. Doorbraakmomenten voor Vaardigheden
+- **Concept**: Wanneer een vaardigheid een bepaald niveau bereikt, ontgrendelt het een speciale evolutie of variant
+- **Mogelijke implementatie**: 
+  - Vaardigheden die transformeren bij bepaalde gebruiksdrempels (bijv. een basis vuuraanval wordt een vuurstorm na 50+ keer gebruik)
+  - Nieuwe eigenschappen die worden toegevoegd aan bestaande vaardigheden (meer bereik, extra effecten)
+  - Visuele upgrades die de progressie weerspiegelen (grotere effecten, indrukwekkendere animaties)
+- **Voordelen**:
+  - Geeft een meer tastbare beloning voor consistent gebruik dan alleen numerieke verbeteringen
+  - Creëert natuurlijke mijlpalen in karakterontwikkeling
+  - Voegt diepte toe aan het progressiesysteem zonder te veel op grinden te vertrouwen
+
+## 2. Hybride Klassen
+- **Concept**: Klassen die twee verschillende assen combineren (Fysiek + Mentaal, Mentaal + Spiritueel, etc.)
+- **Voorbeelden**:
+  - **Battle Monk** (Fysiek + Spiritueel): Gebruikt spirituele energie om fysieke aanvallen te versterken
+  - **Mystic Scholar** (Mentaal + Spiritueel): Combineert intellectueel begrip met mystieke krachten
+  - **Tactische Warrior** (Fysiek + Mentaal): Integreert gevechtsstrategie met fysieke kracht
+- **Implementatieopties**:
+  - Beschikbaar als gevorderde klassen na een bepaald level
+  - Ontgrendeld door specifieke questreeksen te voltooien
+  - Ontstaat natuurlijk door het balanceren van vaardigheden uit verschillende assen
+
+## 3. Antagonistische Kracht in het Verhaal
+- **Concept**: Een antagonistische entiteit of groep die actief de scheiding tussen werelden probeert te versterken
+- **Mogelijke uitwerkingen**:
+  - Een cult of organisatie die gelooft dat de werelden gescheiden moeten blijven
+  - Een corrupte spirituele entiteit die macht wint door fragmentatie
+  - Een technologisch/mentaal gefocust regime dat spiritualiteit wil onderdrukken
+- **Rol in gameplay**:
+  - Stuurt vijandige NPC's en obstakels
+  - Creëert wereldgebeurtenissen die de speler moet tegengaan
+  - Biedt een overkoepelende motivatie voor de hoofdquestlijn
+
+## 4. Astrale Projectie als Gameplay-mechaniek
+- **Concept**: Spirituele klassen kunnen hun bewustzijn projecteren buiten hun fysieke lichaam
+- **Mogelijke implementaties**:
+  - Verkennen van anders ontoegankelijke gebieden
+  - Communiceren met geesten of entiteiten in een spiritueel rijk
+  - Zien door illusies of barrières
+  - Ontdekken van verborgen objecten of geheimen
+- **Beperkingen voor balans**:
+  - Tijdslimiet voor projectie
+  - Kwetsbaarheid van het fysieke lichaam tijdens projectie
+  - Energiekosten of cooldown-periodes
+
+## 5. Niet-materiële Valuta
+- **Concept**: Alternatieve "valuta" zoals kennis, wijsheid, karma of spirituele energie
+- **Verzamelmethoden**:
+  - Kennis: ontdekken van lore, lezen van boeken, oplossen van puzzels
+  - Wijsheid: maken van morele keuzes, helpen van NPC's, mediteren
+  - Karma: goede daden, zelfopoffering, eerlijk handelen
+  - Spirituele energie: mediteren op krachtige plekken, voltooien van rituelen
+- **Gebruiksmogelijkheden**:
+  - Ontgrendelen van speciale training bij spirituele meesters
+  - Toegang krijgen tot bepaalde gebieden of verborgen kennis
+  - Verhandelen met spirituele entiteiten die geen materiële goederen accepteren
+  - Upgraden van spirituele vaardigheden of items
+
+## 6. Gedetailleerde Grid-based Tactisch Systeem
+- **Concept**: Een strategisch gevechtssysteem geïnspireerd door Fire Emblem
+- **Kernelementen**:
+  - Bewegingsbereik afhankelijk van klasse en terrein
+  - Aanvalsbereik en patronen (lineair, diagonaal, AoE)
+  - Terreineffecten (defensiebonus in bossen, bewegingsbeperking in water)
+  - Formatiebonussen (aangrenzende allies geven stat-boosts)
+- **Innovatiemogelijkheden**:
+  - Dynamische terreinen die veranderen tijdens gevecht
+  - Spirituele knooppunten op het slagveld die speciale krachten verlenen
+  - Synergie-aanvallen tussen verschillende klassen
+
+## 7. Dynamisch Positiesysteem (Alternatief voor Grid)
+- **Concept**: Een vrijer bewegingssysteem binnen gevechten
+- **Implementatiedetails**:
+  - Afstandsgebaseerde mechaniek in plaats van strakke grids
+  - Invloedszones rondom karakters (controlegebieden)
+  - Hoekafhankelijke bonussen (aanvallen van achteren doen meer schade)
+- **Voordelen**:
+  - Kan meer vloeiend aanvoelen dan strakke grid-bewegingen
+  - Potentieel betere vertaling naar spirituele concepten zoals aura's en energievelden
+  - Mogelijkheid voor complexere bewegingspatronen en positioneringsstrategieën
+
+## 8. Hybride Gevechtssysteem
+- **Concept**: Combineren van verschillende gevechtsschalen en -stijlen
+- **Implementatie**:
+  - Kleinere gevechten (1v1, 2v2) voor persoonlijke confrontaties
+  - Grotere tactische gevechten voor belangrijke story-momenten
+  - Verschillende regels en mechanismen afhankelijk van de gevechtsschaal
+- **Progressie**:
+  - Begin met eenvoudige 1v1 gevechten om spelers te laten wennen aan het systeem
+  - Introduceer geleidelijk meer complexe gevechten met grotere teams
+  - Climax-gevechten kunnen epische schaal bereiken met meerdere squads en speciale mechanismen
+
+## 9. Kalendersysteem en Wereldcyclus
+- **Concept**: Een gedetailleerd systeem van tijd, seizoenen en astrologische gebeurtenissen
+- **Tijdselementen**:
+  - Dag/nacht cyclus met verschillende NPC's en vijanden
+  - Seizoenen die de wereld en beschikbare resources veranderen
+  - Maanfasen die spirituele krachten beïnvloeden
+  - Speciale astrologische gebeurtenissen (eclipsen, planetaire uitlijningen)
+- **Gameplay-impact**:
+  - Bepaalde quests of gebieden alleen beschikbaar op specifieke tijden
+  - Spirituele krachten sterker/zwakker afhankelijk van astronomische condities
+  - Festivals of ceremonies op specifieke data
+  - Tijdgebonden uitdagingen of resources
+
+## 10. Verdiepte Relatiesystemen
+- **Concept**: Complexe interacties en relatieontwikkeling tussen karakters
+- **Implementatiemogelijkheden**:
+  - Support-gesprekken tussen teamleden (Fire Emblem-stijl)
+  - Vertrouwensniveaus die ontgrendelen van speciale combo-aanvallen beïnvloeden
+  - Mentor-leerling dynamiek met skill-teaching
+  - Conflicterende persoonlijkheden die moeten worden verzoend
+- **Voordelen**:
+  - Verdiept de karakterontwikkeling en spelersinvestering
+  - Creëert gameplay-incentives om verschillende teamcombinaties te gebruiken
+  - Voegt emotionele diepgang toe aan de game-ervaring
+  
+TO-DO
+niet vecht karakters
