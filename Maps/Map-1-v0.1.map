@@ -1,0 +1,53 @@
+// RPG Map Editor - Delimited Map File
+// Grootte: 30x30
+// Delimiter: |
+// Legenda:
+// Basis terrein:
+//   G = Gras
+//   W = Water
+//   P = Pad
+//   Br = Brug
+//   Be = Berg
+// Gebouwen:
+//   H = Huis
+//   Te = Tempel/Ashram
+// Vegetatie:
+//   Tr = Boom
+// NPC's:
+//   NE = Dorpsoudste
+//   NH = Handelaar
+//   NJ = Jongere
+//   NS = Spirituele meester
+//   V = Handelaar (oude aanduiding)
+// Overig:
+
+G|G|G|G|G|G|G|G|G|G|G|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
+G|G|G|G|G|G|G|G|G|G|G|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
+G|G|Tr|G|G|G|G|G|G|G|G|W|W|W|Tr|G|G|G|Tr|G|G|G|G|G|Tr|G|G|G|G|G
+G|G|G|G|G|Te|Te|Te|G|G|G|W|W|W|G|G|G|G|G|G|H|H|G|G|G|G|G|G|G|G
+G|G|G|G|NE|Te|Te|Te|G|G|G|W|W|W|G|G|Tr|G|G|G|H|H|G|G|G|G|H|H|G|G
+G|G|G|G|P|P|P|P|P|G|G|W|W|W|G|Tr|G|G|G|Tr|G|G|G|G|G|G|H|H|G|G
+G|G|Tr|G|P|P|P|P|P|P|G|W|W|W|G|G|G|G|G|G|G|Tr|G|G|G|G|G|G|G|G
+G|G|G|G|P|P|P|P|P|P|G|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
+G|G|G|G|P|P|P|P|P|P|P|W|W|W|G|G|G|G|G|G|G|G|G|H|H|G|G|G|G|G
+G|G|G|G|P|P|P|P|P|P|P|W|W|W|P|P|P|G|G|G|G|G|G|H|H|G|G|G|G|G
+G|G|G|G|P|P|P|P|P|P|P|W|W|W|P|P|P|G|NS|G|Tr|G|G|G|G|G|G|G|G|G
+G|G|H|H|V|P|P|P|P|P|P|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|Tr|G|G
+G|G|H|H|P|P|P|P|NJ|P|P|W|W|W|G|Tr|G|G|G|Tr|H|H|G|G|G|G|G|G|G|G
+G|G|G|G|P|P|P|P|H|H|P|W|W|W|G|G|G|G|G|G|H|H|G|G|G|G|G|G|G|G
+G|G|Tr|G|G|G|G|G|H|H|G|W|W|W|G|G|Tr|G|G|G|G|G|G|G|G|Tr|G|G|G|G
+G|G|G|G|G|G|G|G|G|G|G|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
+G|G|Tr|G|G|G|G|G|G|G|G|W|W|W|G|G|G|G|G|G|Tr|G|G|G|G|G|G|G|G|G
+G|G|G|G|G|G|G|G|G|G|G|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
+G|G|G|Tr|G|G|G|G|G|G|G|W|W|W|G|G|G|G|G|G|Tr|G|Tr|G|G|G|Tr|G|G|G
+G|Tr|G|G|G|G|G|G|G|G|G|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
+G|G|G|G|G|G|G|G|G|G|W|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
+G|G|G|Tr|G|G|G|G|G|G|W|W|W|G|G|Tr|G|G|G|G|G|G|G|G|Tr|Tr|G|G|G|G
+G|G|G|G|G|G|G|G|G|W|W|W|W|G|G|G|G|G|G|G|G|Tr|G|G|Tr|Tr|G|G|G|G
+G|G|G|G|G|Tr|G|G|G|W|W|W|G|G|Tr|G|G|G|G|G|G|Tr|G|G|G|G|G|G|G|G
+G|G|G|Tr|G|G|G|G|W|W|W|G|G|G|G|G|G|G|G|Tr|G|G|G|G|G|G|G|G|G|G
+G|G|G|G|G|G|G|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
+W|W|W|W|W|W|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
+W|W|W|W|W|W|W|W|W|G|G|G|G|G|G|G|G|G|G|G|G|G|G|Tr|Tr|P|P|Tr|Tr|G
+G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|Tr|Tr|P|P|Tr|Tr|G
+G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|Tr|Tr|P|P|Tr|Tr|G
